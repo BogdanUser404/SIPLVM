@@ -1,5 +1,12 @@
-//Copying Bogdan Yachmenev Email: yachmenevbogdan350@gmail.com 
-//GNU GPL 3.0 License
+/*
+ * Copyright (c) 2026 Bogdan Yachmenev <yachmenevbogdan350@gmail.com>
+ * Licensed under GNU GPL v3.0 or later with ADDITIONAL TERMS:
+ * 1. AI TRAINING: Use for training requires disclosure of weights & algorithms.
+ * 2. MILITARY: Use for military purposes requires full source disclosure.
+ * 
+ * Distributed WITHOUT ANY WARRANTY. See LICENSE for full terms.
+ */
+
 
 use std::env;
 pub mod binary;
